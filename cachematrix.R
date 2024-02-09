@@ -2,7 +2,7 @@
 ## functions do
 
 ## Write a short comment describing this function
-##the function will return the list of functions that include set, get, setmean, and getmean
+##the function will return the list of functions that include set, get, setmean, and getmean.
 makeVector <- function(x = numeric()) {
         m <- NULL
         set <- function(y) {
